@@ -15,3 +15,7 @@ X=A/B
 #multiplication
 
 X=A*B
+
+#Percentage
+
+X=A/B * 100
