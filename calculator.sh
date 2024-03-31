@@ -11,3 +11,7 @@ X=A-B
 #division
 
 X=A/B
+
+#multiplication
+
+X=A*B
