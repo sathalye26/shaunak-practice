@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#test change
+
 #Addition function
 
 X=A+B
@@ -11,3 +13,11 @@ X=A-B
 #division
 
 X=A/B
+
+#multiplication
+
+X=A*B
+
+#Percentage
+
+X=A/B * 100
